@@ -1,0 +1,9 @@
+Hello {{ subscriber.name }}
+
+Most people wait too long before sharing ideas publicly.
+
+Read more:
+{{ click_url }}
+
+Unsubscribe:
+{{ unsubscribe_url }}
